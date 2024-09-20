@@ -1,0 +1,7 @@
+Update the Repository with New Changes
+Whenever you make changes to the project, follow these steps:
+
+bash
+Copiar código
+git add .
+git commit -m "Description of changes"
