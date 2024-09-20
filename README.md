@@ -19,4 +19,4 @@ This project uses machine learning to detect fraud in credit card transactions, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/usuario/projeto-deteccao-fraude.git
+  [ git clone https://github.com/usuario/projeto-deteccao-fraude.git](https://github.com/CesarRonai/projeto-deteccao-fraude)
